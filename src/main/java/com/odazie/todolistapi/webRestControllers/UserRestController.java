@@ -19,6 +19,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 
+@CrossOrigin
 @RestController
 public class UserRestController {
 
